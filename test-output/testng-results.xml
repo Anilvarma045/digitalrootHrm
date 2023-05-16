@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T11:38:49 IST" name="Default suite" finished-at="2023-05-16T11:38:55 IST" duration-ms="5378">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T11:38:49 IST" name="Default test" finished-at="2023-05-16T11:38:55 IST" duration-ms="5378">
+      <class name="digitalroot.Orange_Testcases.TestOrange_EditEmployee">
+        <test-method is-config="true" signature="setup()[pri:0, instance:digitalroot.Orange_Testcases.TestOrange_EditEmployee@791f145a]" started-at="2023-05-16T11:38:49 IST" name="setup" finished-at="2023-05-16T11:38:53 IST" duration-ms="3293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editEmployee()[pri:0, instance:digitalroot.Orange_Testcases.TestOrange_EditEmployee@791f145a]" started-at="2023-05-16T11:38:53 IST" name="editEmployee" finished-at="2023-05-16T11:38:55 IST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmployee -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:digitalroot.Orange_Testcases.TestOrange_EditEmployee@791f145a]" started-at="2023-05-16T11:38:55 IST" name="teardown" finished-at="2023-05-16T11:38:55 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- digitalroot.Orange_Testcases.TestOrange_EditEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

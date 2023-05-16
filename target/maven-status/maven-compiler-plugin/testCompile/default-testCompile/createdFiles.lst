@@ -1,0 +1,16 @@
+digitalroot\Orange_Testcases\TestOrange_login.class
+testngDemos\TestDemo1.class
+com\digitalroot\com\digitalrootHrm\BaseClass.class
+digitalroot\Orange_Testcases\TestBaseClass.class
+digitalroot\Orange_Testcases\TestOrange_AddEmployee.class
+digitalroot\Orange_Testcases\TestOrange_EditEmployee.class
+digitalroot_pageObjects\Orange_HomePage.class
+digitalroot\Utilities\Reporting.class
+digitalroot\Orange_Testcases\BaseClassDummy.class
+digitalroot_pageObjects\Orange_logingPage.class
+digitalroot\Utilities\Readconfig.class
+digitalroot_pageObjects\Orange_AddEmpPage.class
+com\digitalroot\com\digitalrootHrm\SeleniumTest.class
+com\digitalroot\com\digitalrootHrm\TestRun.class
+digitalroot\Orange_Testcases\TestOrange_SearchEmployee.class
+com\digitalroot\com\digitalrootHrm\RunTestNG.class

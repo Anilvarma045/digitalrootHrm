@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suiteno1">
+
+<listeners>
+<listener class-name="digitalroot.Utilities.Reporting"/>
+</listeners>
+
+  <test name="parallel_test" parallel="methods" thread-count="1"  >
+  <parameter name="firstn" value="surya" />
+<parameter name="lastn" value="prakash" />
+  
+    <classes>
+      <class name="digitalroot.Orange_Testcases.TestOrange_login"/>
+   <class name="digitalroot.Orange_Testcases.TestOrange_AddEmployee"/>  
+    </classes>
+  </test> <!-- TestSuite -->
+</suite> <!-- Suiteno1 -->
